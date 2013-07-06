@@ -1,7 +1,5 @@
 online-kisiler
 ==============
 
-facebook online kisiler app
 
-
-basit bir facebook uygulaması
+basit bir facebook uygulama denemesi
